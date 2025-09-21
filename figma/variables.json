@@ -22,7 +22,7 @@
         "name": "radius/sm",
         "type": "FLOAT",
         "values": {
-          "1:0": 3
+          "1:0": 10
         }
       },
       {
@@ -70,7 +70,7 @@
         "name": "radius/3xl",
         "type": "FLOAT",
         "values": {
-          "1:0": 28
+          "1:0": 40
         }
       },
       {
